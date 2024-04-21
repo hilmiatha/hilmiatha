@@ -4,6 +4,12 @@ My name is Hilmi Atha Putra😄
 
 * I'm currently studying IS in University of Indonesia
 
+
+
+
+
+[![Hilmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilmiatha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilmiatha)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **hilmiatha/hilmiatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
