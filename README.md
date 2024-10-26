@@ -3,7 +3,7 @@
 My name is Hilmi Atha Putra😄
 
 * I'm currently studying IS in University of Indonesia
-* Currently learning Data Engineering and Artificial Intelligence
+* Currently learning Data Engineering and Back-end Development (Go & Java/Spring)
 
 
 
