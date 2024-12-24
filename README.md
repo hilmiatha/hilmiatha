@@ -11,7 +11,12 @@ My name is Hilmi Atha Putra😄
 <div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmiatha&theme=dracula&show_icons=true&hide_border=false&layout=compact"></p>
   <p><img src="https://github-readme-stats.vercel.app/api?username=hilmiatha&theme=dracula&show_icons=true&hide_border=false&count_private=true"></p>
-  <img src="https://komarev.com/ghpvc/?username=hilmiatha&label=Profile+Views"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  </picture>
+  <p><img src="https://komarev.com/ghpvc/?username=hilmiatha&label=Profile+Views"/></p>
 </div>
 <!--
 **hilmiatha/hilmiatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
